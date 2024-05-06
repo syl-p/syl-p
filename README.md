@@ -3,7 +3,7 @@
 ## Hello <𝚌𝚘𝚍𝚎𝚛 />! 👋
 [![Linkedin: Websylvain](https://img.shields.io/badge/-websylvain-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/websylvain/)](https://www.linkedin.com/in/websylvain/)
 [![GitHub Syl-p](https://img.shields.io/github/followers/gkhan205?label=follow&style=social)](https://github.com/syl-p)
-![Twitter Follow](https://img.shields.io/twitter/follow/websylvain?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/websylvain?style=social)](https://twitter.com/websylvain)
 
 - 🔭 I’m currently working on 3D experiences, progressive web apps
 - 💬 Ask me about javascript, threejs and PWAs
