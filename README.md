@@ -24,7 +24,7 @@
 ## Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,express,php" />
+    <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,express" />
   </a>
 </p>
 
